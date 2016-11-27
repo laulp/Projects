@@ -1,6 +1,6 @@
 ## Getting and Cleaning Data
 ### Exploratory Data Analysis
 
-* first item in list
+* change 1
 * second item in list
 * third item in list
