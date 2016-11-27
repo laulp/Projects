@@ -1,5 +1,5 @@
-## This is a secondary heading
-### This is a tertiary heading
+## Getting and Cleaning Data
+### Exploratory Data Analysis
 
 * first item in list
 * second item in list
